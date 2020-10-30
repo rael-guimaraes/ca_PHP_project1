@@ -35,7 +35,7 @@
             <li>course:            BSc IT 2nd year</li>
         </ul>
         <div>
-            <img src="img/Morrinhos.jpg" alt="Morrinhos img"  width=600 height=450>
+            <img src="img/morrinhos.jpg" alt="Morrinhos img"  width=600 height=450>
         </div>
        
         </div>
