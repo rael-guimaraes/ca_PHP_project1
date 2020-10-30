@@ -35,7 +35,7 @@ img{
     <div class="row">
         <div class="col-sm-6">
             <img src="img/brazilian_states.jpg" alt="Brazil" width=500 height=500>
-            <img src="img/redimer_crist.jpg" alt="redimer Crist" width=500 height=500>
+            <img src="https://images.pexels.com/photos/2818895/pexels-photo-2818895.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" alt="redimer Crist" width=500 height=500>
         </div>
         <div class="col-sm-6">
             <table>
